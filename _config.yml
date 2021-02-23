@@ -1,0 +1,63 @@
+remote_theme: daattali/beautiful-jekyll
+
+title: 飞出国
+
+author: 飞出国
+
+navbar-links:
+  推荐项目: "/#services"
+  服务优势: "/#aboutus"
+  客户评价: "/#clients"
+  更多途径: "/#portfolio"
+  联系飞出国: "/contact"
+
+title-img: /assets/img/flyabroad-logo-light.png
+
+site-css: "/assets/css/flyabroad.css"
+
+keywords: "飞出国, 飞出国移民, 飞出国雇主担保"
+
+mobile-theme-col: "#0085A1"
+navbar-col: "#05172d"
+navbar-text-col: "#fff"
+navbar-border-col: "#05172d"
+
+social-network-links:
+  email: "zixun@flyabroad.com.hk"
+  github: flyabroad
+  twitter: flyabroad
+  # calendly: "attalitech/meeting"
+  # youtube: "c/daattali?sub_confirmation=1"
+  # patreon: DeanAttali
+
+url-pretty: "flyabroad.com.cn"
+
+footer-img: "/assets/img/footer-bg.png"
+
+# google_analytics: "UA-59820529-1"
+
+timezone: "Asia/Shanghai"
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      nav-short: true
+
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
