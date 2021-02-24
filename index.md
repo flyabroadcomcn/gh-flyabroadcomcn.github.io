@@ -41,14 +41,14 @@ ext-js:
     <div id="services-list">
       <div class="service">
         <a href="https://bbs.fcgvisa.com/tag/joboffer" target="_blank" ref="noopener">
-          <img class="service-img" alt="加拿大雇主担保移民" src="/assets/img/flyabroad/ca_item.png" />
+          <img class="service-img" alt="加拿大雇主担保移民" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/flyabroad/ca_item.png" />
           <div>&nbsp;</div>
           <div class="service-text">加拿大雇主担保移民！</div>
         </a>
       </div>
       <div class="service">
         <a href="https://bbs.fcgvisa.com/c/usavisa/63" target="_blank" ref="noopener">
-          <img class="service-img" alt="美国杰出人才移民" src="/assets/img/flyabroad/us_item.png" />
+          <img class="service-img" alt="美国杰出人才移民" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/flyabroad/us_item.png" />
           <div>&nbsp;</div>
           <div class="service-text">美国EB1A杰出人才移民！</div>
         </a>
@@ -56,14 +56,14 @@ ext-js:
       <div id="services-break"></div>
       <div class="service">
         <a href="https://bbs.fcgvisa.com/c/skillselect/gti/248" target="_blank" ref="noopener">
-          <img class="service-img" alt="澳洲 GTI 全球人才移民" src="/assets/img/flyabroad/au_item.png" />
+          <img class="service-img" alt="澳洲 GTI 全球人才移民" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/flyabroad/au_item.png" />
           <div>&nbsp;</div>
           <div class="service-text">澳洲 GTI 全球人才移民！</div>
         </a>
       </div>
       <div class="service">
         <a href="https://bbs.fcgvisa.com/c/nzvisa/13" target="_blank" ref="noopener">
-          <img class="service-img" alt="新西兰留学及雇主担保移民" src="/assets/img/flyabroad/nz_item.png" />
+          <img class="service-img" alt="新西兰留学及雇主担保移民" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/flyabroad/nz_item.png" />
           <div>&nbsp;</div>
           <div class="service-text">新西兰，唯一永久回头签！</div>
         </a>
@@ -120,7 +120,7 @@ ext-js:
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}" target="_blank" rel="noreferrer">
-          <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
+          <img alt="{{ client.name }}" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/logos/{{ client.img }}" />
           <div>{{ client.desc }}</div>
         </a>
       {% endfor %}
@@ -154,7 +154,7 @@ ext-js:
       {% for app in site.data.portfolio %}
 	    <div class="shinyapp">
           <a class="applink" href="{{ app.url }}" target="_blank" rel="noopener">
-            <img class="appimg" src="/assets/img/screenshots/{{ app.img }}" />
+            <img class="appimg" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/screenshots/{{ app.img }}" />
             <div class="apptitle">{{ app.title }}</div>
             <div class="appdesc">{{ app.description }}</div>
           </a>
