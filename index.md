@@ -40,21 +40,33 @@ ext-js:
     <div class="section-title">快捷移民项目</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="加拿大雇主担保移民" src="/assets/img/flyabroad/ca item.png" />
-        <div class="service-text">最快捷，最简单，大众化加拿大移民途径！</div>
+        <a href="https://bbs.fcgvisa.com/tag/joboffer" target="_blank" ref="noopener">
+          <img class="service-img" alt="加拿大雇主担保移民" src="/assets/img/flyabroad/ca_item.png" />
+          <div>&nbsp;</div>
+          <div class="service-text">加拿大雇主担保移民！</div>
+        </a>
       </div>
       <div class="service">
-        <img class="service-img" alt="美国杰出人才移民" src="/assets/img/flyabroad/us-item.png" />
-        <div class="service-text">最快捷移民美国的方式，适合各行业精英人才！</div>
+        <a href="https://bbs.fcgvisa.com/c/usavisa/63" target="_blank" ref="noopener">
+          <img class="service-img" alt="美国杰出人才移民" src="/assets/img/flyabroad/us_item.png" />
+          <div>&nbsp;</div>
+          <div class="service-text">美国EB1A杰出人才移民！</div>
+        </a>
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="澳洲 GTI 全球人才移民" src="/assets/img/flyabroad/au item.png" />
-        <div class="service-text">高端人才快速移民澳洲捷径！</div>
+        <a href="https://bbs.fcgvisa.com/c/skillselect/gti/248" target="_blank" ref="noopener">
+          <img class="service-img" alt="澳洲 GTI 全球人才移民" src="/assets/img/flyabroad/au_item.png" />
+          <div>&nbsp;</div>
+          <div class="service-text">澳洲 GTI 全球人才移民！</div>
+        </a>
       </div>
       <div class="service">
-        <img class="service-img" alt="新西兰留学及雇主担保移民" src="/assets/img/flyabroad/nz item.png" />
-        <div class="service-text">全球唯一永久回头签！</div>
+        <a href="https://bbs.fcgvisa.com/c/nzvisa/13" target="_blank" ref="noopener">
+          <img class="service-img" alt="新西兰留学及雇主担保移民" src="/assets/img/flyabroad/nz_item.png" />
+          <div>&nbsp;</div>
+          <div class="service-text">新西兰，唯一永久回头签！</div>
+        </a>
       </div>
     </div>
 
