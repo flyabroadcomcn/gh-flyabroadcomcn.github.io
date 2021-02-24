@@ -4,6 +4,8 @@ title: 飞出国
 
 author: 飞出国
 
+favicon: "/favicon.ico"
+
 navbar-links:
   推荐项目: "/#services"
   服务优势: "/#aboutus"
