@@ -13,7 +13,7 @@ navbar-links:
   更多途径: "/#portfolio"
   联系飞出国: "/contact"
 
-title-img: https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/flyabroad-logo-light.png
+title-img: https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/img/flyabroad-logo-light.png
 
 site-css: "/assets/css/flyabroad.css"
 
@@ -34,7 +34,7 @@ social-network-links:
 
 url-pretty: "flyabroad.com.cn"
 
-footer-img: "https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@tree/main/assets/img/footer-bg.png"
+footer-img: "https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/img/footer-bg.png"
 
 # google_analytics: "UA-59820529-1"
 
