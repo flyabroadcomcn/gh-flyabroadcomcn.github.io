@@ -23,7 +23,7 @@ ext-js:
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
-  移民就找飞出国
+  你好，飞出国
 </a>
 {: .actionbtn-out :}
 
@@ -60,7 +60,7 @@ ext-js:
 
     <a href="/contact" class="actionbtn">
       <span class="far fa-envelope" aria-hidden="true"></span>
-      移民就找飞出国
+      你好，飞出国
     </a>
   </div>
 </div>
@@ -95,7 +95,7 @@ ext-js:
 
     </div>
     <a href="/contact" class="actionbtn">
-      移民就找飞出国
+      你好，飞出国
     </a>
   </div>
 </div>
@@ -154,11 +154,11 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">世界因你不同，飞出国助你移路顺风！</div><br/>
+    <div class="section-title">庆幸当初选择了FLY作为自己移民道路上的伙伴！！</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
-    移民就找飞出国
+    你好，飞出国
   </a>
 </div>
 
