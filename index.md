@@ -74,7 +74,7 @@ ext-js:
       <p><strong>做人！做事！做朋友！</strong></p>
       做人，把诚信放在企业经营的第一位，经营信任；<br><br>
       做事，敬业、踏实、负责是每个飞出国人自觉遵循的行为准则；<br><br>
-      做朋友，把客户当朋友，一切从客户角度出发考虑问题，实现飞出国存在的价值；
+      做朋友，把客户当朋友，一切从客户角度出发考虑问题，实现飞出国存在的价值；<br><br>      
       
     </div>
   </div>
@@ -103,7 +103,7 @@ ext-js:
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
     <div class="section-title">还好有你飞出国！</div>
-    <div id="clients-subtitle">如果没有飞出国的帮助，我们也许这辈子都没有机会移民了！
+    <div id="clients-subtitle">有人并肩奋斗的感觉本身就是一种幸福！这一路有的就是<a href="https://bbs.fcgvisa.com/c/meta/say/48" target="_blank" ref="noopener"> 对飞出国的感谢！！</a>
     </div>
     <div id="client-logos">
       {% for client in site.data.clients %}
@@ -154,7 +154,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">庆幸当初选择了FLY作为自己移民道路上的伙伴！！</div><br/>
+    <div class="section-title">这一路有的就是对飞出国的信任！</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>

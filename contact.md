@@ -4,6 +4,12 @@ title: 联系飞出国
 share-title: 飞出国 | flyabroad
 ---
 
+<div>一切从申请人的角度出发推荐最合适的移民项目。<br><br>
+
+美加澳新传统移民国家项目政策复杂，多变，飞出国可以帮您在纷繁复杂的项目中甄选，帮您分析项目可行性及项目利弊。<br><br>
+
+2021年-2023年，加拿大每年移民配额都超过40万人，当下，各国技术移民项目申请要求越来越高，加拿大雇主担保移民是最便捷最适合大众申请人的移民项目，杰出人才还可以考虑澳洲 <a href="https://bbs.fcgvisa.com/c/skillselect/gti/248" target="_blank" ref="noopener">GTI</a> 和美国 <a href="https://bbs.fcgvisa.com/c/usavisa/employment/202" target="_blank" ref="noopener">EB1A</a>。</div>
+
 <div>
 <p><h2 style="text-align:center; font-weight:bold;">微信联系飞出国</h2></p>
 </div>
@@ -48,7 +54,7 @@ share-title: 飞出国 | flyabroad
     </div>
   </div>
   <input type="hidden" name="_subject" value="New submission from flyabroad.com.cn">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="联系电话及您需要哪些方面帮助" title="Message" required="required" rows="3"></textarea>
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="联系电话及您需要哪些方面的帮助" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent to flyabroad successfully, thanks!" />
 
