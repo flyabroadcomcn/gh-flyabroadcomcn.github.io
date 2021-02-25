@@ -4,25 +4,25 @@ title: 联系飞出国
 share-title: 飞出国 | flyabroad
 ---
 
-<div>交给我们吧，飞出国一切从申请人的角度出发提建议。您可以在<a href="https://bbs.fcgvisa.com" target="_blank" ref="noopener">飞出国论坛</a>找到我们具体工作人员的微信咨询号。<br><br>
+<div>飞出国，一切从申请人的角度出发提供专业咨询建议。您可以在<a href="https://bbs.fcgvisa.com" target="_blank" ref="noopener">飞出国论坛</a>找到飞出国工作人员的微信咨询号。<br><br>
 
 美加澳新传统移民国家项目政策复杂，多变，飞出国可以帮您在纷繁复杂的项目中甄选，帮您分析项目可行性及项目利弊。<br><br>
 
 2021年-2023年，加拿大每年移民配额都超过40万人，当下，各国技术移民项目申请要求越来越高，加拿大雇主担保移民是最便捷最适合大众申请人的移民项目，杰出人才还可以考虑澳洲 <a href="https://bbs.fcgvisa.com/c/skillselect/gti/248" target="_blank" ref="noopener">GTI</a> 和美国 <a href="https://bbs.fcgvisa.com/c/usavisa/employment/202" target="_blank" ref="noopener">EB1A</a>。</div>
 
 <div>
-<p><h2 style="text-align:center; font-weight:bold;">微信联系飞出国</h2></p>
+<p><h2 style="text-align:center; font-weight:bold;">飞出国微信、微博</h2></p>
 </div>
 
 <div class="container">
   <div class="row justify-content-md-center">
     <div class="col-md-auto">
-      <img style="max-widht: 250px; max-height: 150px" src="http://kit.flyabroadvisa.com/wx18/flyabroad_hk.jpg" alt="飞出国咨询微信" />
-      <div style="text-align:center; font-weight:bold;">飞出国咨询辅助微信</div>
+      <img style="max-widht: 250px; max-height: 150px" src="/assets/img/contact/wxgh_flyabroad.png" alt="飞出国移民微信" />
+      <div style="text-align:center; font-weight:bold;">飞出国移民微信</div>
     </div>
     <div class="col-md-auto">
-      <img style="max-widht: 250px; max-height: 150px" src="http://kit.flyabroadvisa.com/wx18/baodechuguo-flyeven.jpg" alt="飞出国服务监督" />
-      <div style="text-align:center; font-weight:bold;">飞出国服务监督微信</div>
+      <img style="max-widht: 250px; max-height: 150px" src="/assets/img/contact/weibo_flyabroad.jpg" alt="飞出国微信" />
+      <div style="text-align:center; font-weight:bold;">飞出国微信</div>
     </div>
   </div>
 </div>
