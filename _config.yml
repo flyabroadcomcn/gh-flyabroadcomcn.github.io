@@ -4,7 +4,7 @@ title: 飞出国
 
 author: 飞出国
 
-favicon: "/favicon.ico"
+favicon: "https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/favicon.ico"
 
 navbar-links:
   推荐项目: "/#services"
@@ -15,7 +15,7 @@ navbar-links:
 
 title-img: https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/img/flyabroad-logo-light.png
 
-site-css: "/assets/css/flyabroad.css"
+site-css: "https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/css/flyabroad.css"
 
 keywords: "飞出国, 飞出国移民, 飞出国雇主担保"
 

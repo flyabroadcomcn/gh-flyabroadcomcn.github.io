@@ -2,11 +2,11 @@
 layout: base
 title: "飞出国 | 让移民变简单"
 css:
-  - /assets/css/index.css
+  - https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/css/index.css
 ext-css:
   - //fonts.googleapis.com/css?family=Roboto:400,700
 js:
-  - /assets/js/index.js
+  - https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/js/index.js
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 ---
@@ -34,6 +34,21 @@ ext-js:
 </div>
 
 <div id="main-sections">
+
+<div class="cut-buffer"></div>
+
+  <div id="aboutme-section-out" class="page-section grey-section cut2">
+    <div id="aboutme-section">
+      <div class="section-title">卓而不凡飞出国</div>
+    <div id="aboutme-list" markdown="1">
+  {% for info in site.data.main_info %}
+  {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
+  <span class="about-content">{{ info.content }}</span>
+  {: .about-text }
+  {% endfor %}
+  </div>
+    </div>
+</div>
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
@@ -125,21 +140,6 @@ ext-js:
         </a>
       {% endfor %}
     </div>
-  </div>
-</div>
-
-<div class="cut-buffer"></div>
-
-<div id="aboutme-section-out" class="page-section grey-section cut2">
-  <div id="aboutme-section">
-    <div class="section-title">卓而不凡飞出国</div>
-	<div id="aboutme-list" markdown="1">
-{% for info in site.data.main_info %}
-{% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
-<span class="about-content">{{ info.content }}</span>
-{: .about-text }
-{% endfor %}
-</div>
   </div>
 </div>
 
