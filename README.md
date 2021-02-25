@@ -1,5 +1,7 @@
 # gh-flyabroadcomcn.github.io
 
+上传前一定要规范命名并压缩图片大小。本机需要安装 ruby 2.7 版本： https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.2-1/rubyinstaller-2.7.2-1-x64.exe 
+
 在命令行里安装并运行 jekyll，运行过程中有任何错误先google。
 
 git clone https://github.com/flyabroadcomcn/gh-flyabroadcomcn.github.io.git
