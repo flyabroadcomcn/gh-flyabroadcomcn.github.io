@@ -4,7 +4,7 @@ title: 联系飞出国
 share-title: 飞出国 | flyabroad
 ---
 
-<div>交给我们吧，飞出国一切从申请人的角度出发提供建议。<br><br>
+<div>交给我们吧，飞出国一切从申请人的角度出发提建议。您可以在<a href="https://bbs.fcgvisa.com" target="_blank" ref="noopener">飞出国论坛</a>找到我们具体工作人员的微信咨询号。<br><br>
 
 美加澳新传统移民国家项目政策复杂，多变，飞出国可以帮您在纷繁复杂的项目中甄选，帮您分析项目可行性及项目利弊。<br><br>
 
@@ -18,11 +18,11 @@ share-title: 飞出国 | flyabroad
   <div class="row justify-content-md-center">
     <div class="col-md-auto">
       <img style="max-widht: 250px; max-height: 150px" src="http://kit.flyabroadvisa.com/wx18/flyabroad_hk.jpg" alt="飞出国咨询微信" />
-      <div style="text-align:center; font-weight:bold;">飞出国咨询微信</div>
+      <div style="text-align:center; font-weight:bold;">飞出国咨询辅助微信</div>
     </div>
     <div class="col-md-auto">
       <img style="max-widht: 250px; max-height: 150px" src="http://kit.flyabroadvisa.com/wx18/baodechuguo-flyeven.jpg" alt="飞出国服务监督" />
-      <div style="text-align:center; font-weight:bold;">飞出国服务监督</div>
+      <div style="text-align:center; font-weight:bold;">飞出国服务监督微信</div>
     </div>
   </div>
 </div>
