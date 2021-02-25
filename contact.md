@@ -17,11 +17,11 @@ share-title: 飞出国 | flyabroad
 <div class="container">
   <div class="row justify-content-md-center">
     <div class="col-md-auto">
-      <img style="max-widht: 250px; max-height: 150px" src="/assets/img/contact/wxgh_flyabroad.png" alt="飞出国移民微信" />
+      <img style="max-widht: 250px; max-height: 150px" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/img/contact/wxgh_flyabroad.png" alt="飞出国移民微信" />
       <div style="text-align:center; font-weight:bold;">飞出国移民微信</div>
     </div>
     <div class="col-md-auto">
-      <img style="max-widht: 250px; max-height: 150px" src="/assets/img/contact/weibo_flyabroad.jpg" alt="飞出国微信" />
+      <img style="max-widht: 250px; max-height: 150px" src="https://cdn.jsdelivr.net/gh/flyabroadcomcn/gh-flyabroadcomcn.github.io@main/assets/img/contact/weibo_flyabroad.jpg" alt="飞出国微信" />
       <div style="text-align:center; font-weight:bold;">飞出国微信</div>
     </div>
   </div>
