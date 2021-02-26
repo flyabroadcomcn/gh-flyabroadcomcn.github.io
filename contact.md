@@ -6,9 +6,9 @@ share-title: 飞出国 | flyabroad
 
 <div><a name="0">&nbsp;</a>飞出国，一切从申请人的角度出发提供专业咨询建议。您可以在<a href="https://bbs.fcgvisa.com" target="_blank" ref="noopener">飞出国论坛</a>找到飞出国工作人员的微信咨询号。<br><br>
 
-美加澳新传统移民国家项目政策复杂，多变，飞出国可以帮您在纷繁复杂的项目中甄选，帮您分析项目可行性及项目利弊。<br><br>
+<a href="contact#ca">加拿大客户</a>和<a href="contact#au">澳洲客户</a>的评价是对飞出国坚守承诺的最好证明！是飞出国最不可复制的核心竞争力！美加澳新传统移民国家项目政策复杂，多变，飞出国可以帮您在纷繁复杂的项目中甄选，帮您分析项目可行性及项目利弊。<br><br>
 
-2021年-2023年，加拿大每年移民配额都超过40万人，当下，各国技术移民项目申请要求越来越高，<a href="#ca">加拿大</a>雇主担保移民是最便捷最适合大众申请人的移民项目，杰出人才还可以考虑澳洲 <a href="#au">GTI</a> 和美国 <a href="https://bbs.fcgvisa.com/c/usavisa/employment/202" target="_blank" ref="noopener">EB1A</a>。热门项目请参考<a href="https://bbs.fcgvisa.com/tag/%E6%A1%88%E4%BE%8B" target="_blank" ref="noopener">飞出国案例</a>。</div>
+2021年-2023年，加拿大每年移民配额都超过40万人，当下，各国技术移民项目申请要求越来越高，<a href="#ca">加拿大</a>雇主担保移民是最便捷最适合大众申请人的移民项目，杰出人才还可以考虑澳洲 <a href="https://bbs.fcgvisa.com/t/2021-gti-global-talent-visa-program/37961" target="_blank" ref="noopener">GTI</a> 和美国 <a href="https://bbs.fcgvisa.com/c/usavisa/employment/202" target="_blank" ref="noopener">EB1A</a>。热门项目请参考<a href="https://bbs.fcgvisa.com/tag/%E6%A1%88%E4%BE%8B" target="_blank" ref="noopener">飞出国案例</a>。</div>
 
 <div>
 <p><h2 style="text-align:center; font-weight:bold;">飞出国微信、微博</h2></p>

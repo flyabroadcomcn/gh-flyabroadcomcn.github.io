@@ -77,7 +77,7 @@ ext-js:
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <a href="https://bbs.fcgvisa.com/c/skillselect/gti/248" target="_blank" ref="noopener">
+        <a href="https://bbs.fcgvisa.com/t/2021-gti-global-talent-visa-program/37961" target="_blank" ref="noopener">
           <img class="service-img" alt="澳洲 GTI 全球人才移民" src="/assets/img/flyabroad/au_item.png" />
           <div>&nbsp;</div>
           <div class="service-text">澳洲 GTI 全球人才移民！</div>
