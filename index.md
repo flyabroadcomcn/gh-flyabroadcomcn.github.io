@@ -17,7 +17,7 @@ ext-js:
 
 # flyabroad {#title}
 
-## 飞出国，在这里遇见未来 {#subtitle}
+## 飞出国，在这里遇见未来！ {#subtitle}
 
 #### 遇见飞出国，遇见不同；选择飞出国，选择成功！ {#sub-subtitle}
 
@@ -110,7 +110,7 @@ ext-js:
       做事，敬业、踏实、负责是每个飞出国人自觉遵循的行为准则；<br>
       做朋友，把客户当朋友，一切从客户角度出发考虑问题，实现飞出国存在的价值；<br><br>
       
-      <a href="https://flyabroad.ca/categories/flyabroad/" target="_blank" ref="noopener">加拿大客户</a>和<a href="https://flyabroad.co/categories/flyabroad/"  target="_blank" ref="noopener">澳洲客户</a>的评价是对飞出国坚守承诺的最好证明！是飞出国最不可复制的核心竞争力！<br><br>
+      <a href="contact#ca">加拿大客户</a>和<a href="contact#au">澳洲客户</a>的评价是对飞出国坚守承诺的最好证明！是飞出国最不可复制的核心竞争力！<br><br>
 
       基于飞出国的理念、风格及团队文化，飞出国处理任何项目，对待任何客户都将秉持同样态度！
       

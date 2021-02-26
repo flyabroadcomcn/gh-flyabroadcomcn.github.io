@@ -7,6 +7,7 @@ author: 飞出国
 favicon: "/favicon.ico"
 
 navbar-links:
+  飞出国: "/#aboutme-section"
   推荐项目: "/#services"
   服务优势: "/#aboutus"
   客户评价: "/#clients"
