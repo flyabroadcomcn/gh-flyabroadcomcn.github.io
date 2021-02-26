@@ -4,8 +4,7 @@ title: 联系飞出国
 share-title: 飞出国 | flyabroad
 ---
 
-<a name="0">&nbsp;</a>
-<div>飞出国，一切从申请人的角度出发提供专业咨询建议。您可以在<a href="https://bbs.fcgvisa.com" target="_blank" ref="noopener">飞出国论坛</a>找到飞出国工作人员的微信咨询号。<br><br>
+<div><a name="0">&nbsp;</a>飞出国，一切从申请人的角度出发提供专业咨询建议。您可以在<a href="https://bbs.fcgvisa.com" target="_blank" ref="noopener">飞出国论坛</a>找到飞出国工作人员的微信咨询号。<br><br>
 
 美加澳新传统移民国家项目政策复杂，多变，飞出国可以帮您在纷繁复杂的项目中甄选，帮您分析项目可行性及项目利弊。<br><br>
 
