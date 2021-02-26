@@ -33,7 +33,7 @@ url-pretty: "flyabroad.com.cn"
 
 footer-img: "/assets/img/footer-bg.png"
 
-# google_analytics: "UA-59820529-1"
+google_analytics: "UA-2215243-2"
 
 timezone: "Asia/Shanghai"
 markdown: kramdown

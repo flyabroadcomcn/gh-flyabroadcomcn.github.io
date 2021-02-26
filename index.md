@@ -17,7 +17,7 @@ ext-js:
 
 # flyabroad {#title}
 
-## 飞出国，让移民变简单 {#subtitle}
+## 飞出国，在这里遇见未来 {#subtitle}
 
 #### 遇见飞出国，遇见不同；选择飞出国，选择成功！ {#sub-subtitle}
 
@@ -52,7 +52,7 @@ ext-js:
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">快捷移民项目</div>
+    <div class="section-title">在这里遇见未来，飞出国推荐</div>
     <div id="services-list">
       <div class="service">
         <a href="https://bbs.fcgvisa.com/tag/joboffer" target="_blank" ref="noopener">
@@ -96,9 +96,9 @@ ext-js:
 
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
-    <div class="section-title">飞出国价值理念</div>
+    <div class="section-title">真得还有你，愿意坚守承诺</div>
     <div id="aboutus-text">
-      <p><strong>做人！做事！做朋友！</strong></p>
+      <p><strong>飞出国理念：做人！做事！做朋友！</strong></p>
       做人，把诚信放在企业经营的第一位，经营信任；<br><br>
       做事，敬业、踏实、负责是每个飞出国人自觉遵循的行为准则；<br><br>
       做朋友，把客户当朋友，一切从客户角度出发考虑问题，实现飞出国存在的价值；<br><br>            
@@ -110,7 +110,7 @@ ext-js:
 
 <div id="values-out" class="page-section cut2">
   <div id="values">
-	  <div class="section-title">飞出国服务优势</div>
+	  <div class="section-title">选择飞出国绝对是正确的！</div>
     <div id="values-text">
       踏实、敬业，让客户倍感<b>省心!</b> <br>   
       直率、坦诚，让客户倍感<b>放心！</b><br>
@@ -128,7 +128,7 @@ ext-js:
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
     <div class="section-title">还好有你飞出国！</div>
-    <div id="clients-subtitle">有人并肩奋斗的感觉本身就是一种幸福！这一路有的就是<a href="https://bbs.fcgvisa.com/c/meta/say/48" target="_blank" ref="noopener"> 对飞出国的感谢！！</a>
+    <div id="clients-subtitle">有人并肩奋斗的感觉本身就是一种幸福！对飞出国一路上的陪伴<a href="https://bbs.fcgvisa.com/c/meta/say/48" target="_blank" ref="noopener"> 千言万语唯有感谢！</a>
     </div>
     <div id="client-logos">
       {% for client in site.data.clients %}
@@ -146,7 +146,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      更多移民途径
+      分享移民历程，感谢fly六年的陪伴！
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
@@ -164,7 +164,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">这一路有的就是对飞出国的信任！</div><br/>
+    <div class="section-title">专业是“飞出国”的信仰，专业、且把每一位客户当作朋友一样对待，这是我对FLY的最大感受。</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
