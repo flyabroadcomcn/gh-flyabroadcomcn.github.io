@@ -153,6 +153,7 @@ share-title: 飞出国 | flyabroad
 * <a href="https://flyabroad.co/posts/PPYuan/" target="_blank" ref="noopener">感谢fly的帮助，也特别感谢张姐，海燕和立娜的帮助！</a>
 * <a href="https://flyabroad.co/posts/ganyan/" target="_blank" ref="noopener">每次读起都倍受鼓舞，客户的认可和支持一直激励着飞出国</a>
 * <a href="https://flyabroad.co/posts/motoosaka/" target="_blank" ref="noopener">顺利拿到189PR，感谢fly，感谢annie</a>
+* <a href="https://flyabroad.ca/posts/pusspiggy/" target="_blank" ref="noopener">谢谢fly和海燕，190act移民八个月完成，梦想成真</a>
         
 2013 年飞出国澳洲客户好评摘选：
         
@@ -235,7 +236,6 @@ share-title: 飞出国 | flyabroad
 
 * <a href="https://flyabroad.ca/posts/liuxyzy/" target="_blank" ref="noopener">背调多半年，终于毕业了！</a>
 * <a href="https://flyabroad.ca/posts/weemike/" target="_blank" ref="noopener">感谢FLY团队的专业服务-感谢Angela、Annie、焦静坤</a>
-* <a href="https://flyabroad.ca/posts/pusspiggy/" target="_blank" ref="noopener">谢谢fly和海燕，190act移民八个月完成，梦想成真</a>
 * <a href="https://flyabroad.ca/posts/agnes/" target="_blank" ref="noopener">感谢fly团队，三年来风雨同路！</a>
 
 2013 年飞出国加拿大客户好评摘选：
