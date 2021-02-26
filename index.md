@@ -47,6 +47,13 @@ ext-js:
   {: .about-text }
   {% endfor %}
   </div>
+      <p></p>
+    <div style="text-align:center;">
+      <a href="/contact" class="actionbtn">
+        <span class="far fa-envelope" aria-hidden="true"></span>
+        你好，飞出国
+      </a>
+   </div>
     </div>
 </div>
 
@@ -99,10 +106,22 @@ ext-js:
     <div class="section-title">真得还有你，愿意坚守承诺</div>
     <div id="aboutus-text">
       <p><strong>飞出国理念：做人！做事！做朋友！</strong></p>
-      做人，把诚信放在企业经营的第一位，经营信任；<br><br>
-      做事，敬业、踏实、负责是每个飞出国人自觉遵循的行为准则；<br><br>
-      做朋友，把客户当朋友，一切从客户角度出发考虑问题，实现飞出国存在的价值；<br><br>            
+      做人，把诚信放在企业经营的第一位，经营信任；<br>
+      做事，敬业、踏实、负责是每个飞出国人自觉遵循的行为准则；<br>
+      做朋友，把客户当朋友，一切从客户角度出发考虑问题，实现飞出国存在的价值；<br><br>
+      
+      <a href="https://flyabroad.ca/categories/flyabroad/" target="_blank" ref="noopener">加拿大客户</a>和<a href="https://flyabroad.co/categories/flyabroad/"  target="_blank" ref="noopener">澳洲客户</a>的评价是对飞出国坚守承诺的最好证明！是飞出国最不可复制的核心竞争力！<br><br>
+
+      基于飞出国的理念、风格及团队文化，飞出国处理任何项目，对待任何客户都将秉持同样态度！
+      
     </div>
+    <p></p>
+    <div>
+      <a href="/contact" class="actionbtn">
+        <span class="far fa-envelope" aria-hidden="true"></span>
+        你好，飞出国
+      </a>
+   </div>
   </div>
 </div>
 
@@ -119,9 +138,10 @@ ext-js:
       专业、经验，让客户<b>省时、省力、省钱！</b><br>
       一流的质量、一流的效率、一流的信誉给客户“飞”一般的体验！
     </div>
-    <a href="/contact" class="actionbtn">
-      你好，飞出国
-    </a>
+  <a href="/contact" class="actionbtn">
+    <span class="far fa-envelope" aria-hidden="true"></span>
+    你好，飞出国
+  </a>
   </div>
 </div>
 
@@ -146,8 +166,9 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      分享移民历程，感谢fly六年的陪伴！
+      飞出国助你移路顺风！
     </div>
+    <div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
 	    <div class="shinyapp">
