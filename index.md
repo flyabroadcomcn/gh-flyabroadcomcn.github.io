@@ -126,7 +126,7 @@ ext-js:
 
 <div id="values-out" class="page-section cut2">
   <div id="values">
-	  <div class="section-title">选择飞出国绝对是正确的！</div>
+	  <div class="section-title">专业是“飞出国”的信仰！</div>
     <div id="values-text">
       踏实、敬业，让客户倍感<b>省心!</b> <br>   
       直率、坦诚，让客户倍感<b>放心！</b><br>
@@ -182,7 +182,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">专业是“飞出国”的信仰，专业、且把每一位客户当作朋友一样对待，这是我对FLY的最大感受。</div><br/>
+    <div class="section-title">专业、且把每一位客户当作朋友一样对待，这是我对FLY的最大感受。</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
