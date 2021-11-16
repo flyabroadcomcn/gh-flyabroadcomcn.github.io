@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GTI 澳洲全球人才项目
-share-title: Australia Global Talent Independent program (GTI) 
+title: 澳大利亚 GTI
+share-title: 澳洲全球人才项目 Australia Global Talent Independent program (GTI)
 ---
 
 <div class="container">
